@@ -7,3 +7,6 @@ https://tinyurl.com/yfdy3yan
 
 ### Switch debounce with Schmidt trigger
 https://tinyurl.com/y6bxoxd4
+
+### Opt-isolated double coil relay
+https://tinyurl.com/2j8r7y6u

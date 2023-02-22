@@ -10,3 +10,6 @@ https://tinyurl.com/y6bxoxd4
 
 ### Opt-isolated double coil relay
 https://tinyurl.com/2qdfxcq6
+
+### Opt-isolated double coil relay and motor control direction
+https://tinyurl.com/2q6cl5o4

@@ -9,4 +9,4 @@ https://tinyurl.com/yfdy3yan
 https://tinyurl.com/y6bxoxd4
 
 ### Opt-isolated double coil relay
-https://tinyurl.com/2j8r7y6u
+https://tinyurl.com/2qdfxcq6

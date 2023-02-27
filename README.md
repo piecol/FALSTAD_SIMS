@@ -16,3 +16,6 @@ https://tinyurl.com/2j45qx48
 
 ### Hall switch to MCU
 https://tinyurl.com/2kbpu75w
+
+### On board LED confirmation
+https://tinyurl.com/2npwozcs

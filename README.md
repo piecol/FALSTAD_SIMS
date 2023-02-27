@@ -18,4 +18,4 @@ https://tinyurl.com/2j45qx48
 https://tinyurl.com/2kbpu75w
 
 ### On board LED confirmation
-https://tinyurl.com/2npwozcs
+[https://tinyurl.com/2npwozcs](https://tinyurl.com/2mccy7wc)

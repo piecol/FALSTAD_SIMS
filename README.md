@@ -14,6 +14,9 @@ https://tinyurl.com/2qdfxcq6
 ### Opt-isolated double coil relay and motor control direction
 https://tinyurl.com/2j45qx48
 
+### H-bridge
+https://tinyurl.com/2j8ys4rb
+
 ### Hall switch to MCU
 https://tinyurl.com/2kbpu75w
 

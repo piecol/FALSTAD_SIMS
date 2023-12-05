@@ -22,3 +22,6 @@ https://tinyurl.com/2kbpu75w
 
 ### On board LED confirmation
 [https://tinyurl.com/2npwozcs](https://tinyurl.com/2mccy7wc)
+
+### XOR LOGIC MOTOR
+https://tinyurl.com/ywfoa6ll

@@ -25,3 +25,6 @@ https://tinyurl.com/2kbpu75w
 
 ### XOR LOGIC MOTOR
 https://tinyurl.com/ywfoa6ll
+
+### Reed switch interrupt
+https://tinyurl.com/22paen6x

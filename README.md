@@ -28,3 +28,6 @@ https://tinyurl.com/ywfoa6ll
 
 ### Reed switch interrupt
 https://tinyurl.com/22paen6x
+
+### AC sensing: logic level optoisolator
+https://tinyurl.com/2ykr8zus
